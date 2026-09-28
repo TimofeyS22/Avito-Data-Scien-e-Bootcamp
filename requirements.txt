@@ -1,0 +1,13 @@
+# Python 3.12 (проверено на 3.12.14, macOS ARM64). Точные версии, с которыми получен answer.csv.
+catboost==1.2.10
+huggingface-hub==1.33.0
+nltk==3.10.3
+numpy==2.5.3
+pandas==3.0.6
+pyarrow==25.0.1
+safetensors==0.8.0
+scikit-learn==1.9.1
+scipy==1.18.1
+tokenizers==0.23.2
+torch==2.14.0
+transformers==5.17.0

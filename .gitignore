@@ -1,0 +1,12 @@
+# исходные данные (скачиваются download_data.py) и всё, что порождает полный пересчёт
+data/
+v3/cache/
+v4/work/
+v4/*.cbm
+output/
+# окружения и служебные файлы
+.venv/
+__pycache__/
+*.pyc
+*.tmp
+.DS_Store
